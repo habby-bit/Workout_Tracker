@@ -1,1 +1,33 @@
 # Workout_Tracker
+
+## Description
+
+Workout Tracker allows the user, to view, create and track daily workouts. When the user loads the page, they are given the option to create a new workout or continue with their last workout.
+
+They can log multiple exercises in a workout on a given day. They're also able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, for example, the user is able to track my distance traveled.
+
+## Table of Contents
+
+* [Project Summary](#description)
+* [Preview](#preview)
+* [Deployed App](#app)
+* [Contact Me](#questions)
+  
+## Preview
+
+Below is an example image of the deployed app!
+
+<!-- ![BurgerApp Example](public/assets/img/AppStills.png) -->
+
+## App
+
+Here is a link to the deployed app on Heroku: 
+<!-- [Eat The Burger App](https://easy-burger-eatery.herokuapp.com/) -->
+
+## Questions?
+
+If you have any questions, please don't hesitate to reach out!
+
+Github: [habby-bit](https://github.com/habby-bit)
+  
+Email: [habbyolu@gmail.com](habbyolu@gmail.com)
