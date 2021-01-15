@@ -15,9 +15,12 @@ They can log multiple exercises in a workout on a given day. They're also able t
   
 ## Preview
 
-Below is an example image of the deployed app!
+Below are some example images of the deployed app!
 
-<!-- ![BurgerApp Example](public/assets/img/AppStills.png) -->
+![BurgerApp Example](public/imgs/Home.png)
+![BurgerApp Example](public/imgs/AddWorkout.png)
+![BurgerApp Example](public/imgs/StatsDashboard.png)
+
 
 ## App
 
