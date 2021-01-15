@@ -1,4 +1,4 @@
-# Workout_Tracker
+# Workout Tracker
 
 ## Description
 
