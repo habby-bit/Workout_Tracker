@@ -17,15 +17,15 @@ They can log multiple exercises in a workout on a given day. They're also able t
 
 Below are some example images of the deployed app!
 
-![BurgerApp Example](public/imgs/Home.png)
-![BurgerApp Example](public/imgs/AddWorkout.png)
-![BurgerApp Example](public/imgs/StatsDashboard.png)
+![Home Example](public/imgs/Home.png)
+![Add Workout Example](public/imgs/AddWorkout.png)
+![Stats Example](public/imgs/StatsDashboard.png)
 
 
 ## App
 
 Here is a link to the deployed app on Heroku: 
-<!-- [Eat The Burger App](https://easy-burger-eatery.herokuapp.com/) -->
+[Workout Tracker App](https://working-workouts.herokuapp.com/)
 
 ## Questions?
 
