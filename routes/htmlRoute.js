@@ -1,19 +1,17 @@
 const router = require("express").Router();
-const Workout = require("../models/workout.js");
+const path = require("path");
 
-    // Returns the content from the notes.html file
-    router.get("/workouts", function (req, res) {
-        res.sendFile(Workout.join(__dirname, "../public/exercise.html"));
-    });
+router.get('/exercise', (req, res) => {
+	res.sendFile(path.join(__dirname, "../public/exercise.html"));
+});
 
-    router.get("/stats", function (req, res) {
-        res.sendFile(Workout.join(__dirname, "../public/stats.html"));
-    });
+router.get('/stats', (req, res) => {
+	res.sendFile(path.join(__dirname, "../public/stats.html"));
+});
 
-    // Returns the content from the index.html file
-    router.get("*", function (req, res) {
-        res.sendFile(Workout.join(__dirname, "../public/index.html"));
-    });
+router.get("*", function (req, res) {
+    res.sendFile(Workout.join(__dirname, "../public/index.html"));
+});
 
 module.exports = router;
 
